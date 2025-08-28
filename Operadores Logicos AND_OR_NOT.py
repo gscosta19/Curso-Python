@@ -23,5 +23,6 @@ else:
     print(f"Aluno possui média {media} e teve {faltas} faltas")
     print("Aluno em recuperação!!")
 
+arthuuroo
 
 
